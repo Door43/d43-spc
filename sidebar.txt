@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spc:home|Door43 (spc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spc|d43-spc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spc/archive/master.zip|d43-spc.zip]]
+
+**Recent Changes**
+{{changes>ns = spc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spc|Ethnologue data]]
+
